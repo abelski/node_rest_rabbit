@@ -1,0 +1,4 @@
+{
+	"mqlink": "amqp://qdyjuryd:e4LiRzZDJHUgCAbLWtT4ZWR7ZUpWCMks@lion.rmq.cloudamqp.com/qdyjuryd",
+	"qname": "mainq"
+}
